@@ -13,3 +13,8 @@
 	width: 630px;
 	background-color: #80ff80 ;
 }
+
+.subMenu {
+	margin: 10px auto;
+	width: 250px;
+}

@@ -1,2 +1,4 @@
 eclipse.preferences.version=1
 encoding//WebContent/Views/Homepage.jsp=UTF-8
+encoding//WebContent/Views/UpdateTeam.jsp=UTF-8
+encoding//src/com/quanta/actions/ScheduleManageAction.java=UTF-8
